@@ -1,0 +1,18 @@
+PART 1:
+You did a lot of work to parse HTML and iterate through a table, where Pandas could have done this with read_html.  You got to the right answer, but all of your code needed to be inside the function itself.
+-1
+
+PART 2:
+Nice work
+
+PART 3:
+Great
+
+PART 4:
+Great
+
+PART 5:
+Nice work
+
+PART 6:
+Good observations.
